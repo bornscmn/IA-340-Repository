@@ -1,4 +1,4 @@
-# IA-340-Lab-1
+# IA-340
 
 ## Purpose
 
